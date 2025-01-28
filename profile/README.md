@@ -6,7 +6,7 @@ Autónoma de Santo Domingo (UASD)
 
 - [Programa](programa-geomorfologia-202501.pdf)
 
-- Lista de control de servicios o cuentas que debes obtener:
+- Servicios o cuentas que deberás obtener:
 
   - Cuenta en el foro de la asignatura. Uso un servidor Mattermost para
     la comunicación en la asignatura (se parece mucho a un servicio
