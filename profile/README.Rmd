@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Programa](programa-geomorfologia-202501.pdf)
 
-- Lista de control de servicios o cuentas que debes obtener:
+- Servicios o cuentas que deberás obtener:
 
   - Cuenta en el foro de la asignatura. Uso un servidor Mattermost para la comunicación en la asignatura (se parece mucho a un servicio llamado Slack). Al momento de leer este texto, deberías haber recibido una invitación por correo electrónico (revisa tu spam; escríbeme si necesitas que te reenvíe la invitación). Cuando localices la invitación, haz clic en "Únete ahora", y crea una cuenta en mi servidor de foros usando el navegador de tu teléfono o de tu PC (te recomiendo que uses un navegador de uso general, como Chrome, Safari o Edge; si estás en el teléfono, ten presente que algunos fabricantes de celulares usan versiones limitadas de navegadores hechos a medida, por lo que asegúrate de usar un navegador de uso genera para crear la cuenta). Cuando tengas tu cuenta creada, descarga la aplicación Mattermost (no la *Classic*), la cual te pedirá tu nombre de usuario y contraseña creada previamente, así como un nombre de servidor (escríbeme para indicarte qué URL usar como nombre de servidor).
   - Cuenta en el servidor de RStudio. Escríbeme un mensaje de correo electrónico si no tienes cuenta aún. Recibirás un mensaje de correo electrónico con tus credenciales y la dirección del servidor.
