@@ -2,6 +2,16 @@ Asignatura “Geomorfología”, Licenciatura en Geografía, Universidad
 Autónoma de Santo Domingo (UASD)
 ================
 
+# Titulo 1
+
+## Tiutlo 2
+
+### Titulo 3
+
+*cursiva*
+
+**negrita**
+
 ![](qr.jpg)
 
 - [Programa](programa-geomorfologia-202501.pdf)
@@ -52,11 +62,11 @@ Autónoma de Santo Domingo (UASD)
 
   - [PA00. Nivelación de geología para
     geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia).
-    Plazo de entrega: 3 de febrero, 2025, 7:59 pm.
+    Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
 
   - [PA01. Mapa geomorfológico de RD y
     Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones).
-    Plazo de entrega: 3 de febrero, 2025, 7:59 pm.
+    Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
 
   <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 10 de febrero, 2025, 7:59 pm. -->
   <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
