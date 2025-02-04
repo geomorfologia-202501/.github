@@ -2,16 +2,6 @@ Asignatura “Geomorfología”, Licenciatura en Geografía, Universidad
 Autónoma de Santo Domingo (UASD)
 ================
 
-# Titulo 1
-
-## Tiutlo 2
-
-### Titulo 3
-
-*cursiva*
-
-**negrita**
-
 ![](qr.jpg)
 
 - [Programa](programa-geomorfologia-202501.pdf)
