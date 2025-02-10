@@ -14,8 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - Servicios o cuentas que deberás obtener:
 
   - Cuenta en el foro de la asignatura. Uso un servidor Mattermost para la comunicación en la asignatura (se parece mucho a un servicio llamado Slack). Al momento de leer este texto, deberías haber recibido una invitación por correo electrónico (revisa tu spam; escríbeme si necesitas que te reenvíe la invitación). Cuando localices la invitación, haz clic en "Únete ahora", y crea una cuenta en mi servidor de foros usando el navegador de tu teléfono o de tu PC (te recomiendo que uses un navegador de uso general, como Chrome, Safari o Edge; si estás en el teléfono, ten presente que algunos fabricantes de celulares usan versiones limitadas de navegadores hechos a medida, por lo que asegúrate de usar un navegador de uso genera para crear la cuenta). Cuando tengas tu cuenta creada, descarga la aplicación Mattermost (no la *Classic*), la cual te pedirá tu nombre de usuario y contraseña creada previamente, así como un nombre de servidor (escríbeme para indicarte qué URL usar como nombre de servidor).
+  
   - Cuenta en el servidor de RStudio. Escríbeme un mensaje de correo electrónico si no tienes cuenta aún. Recibirás un mensaje de correo electrónico con tus credenciales y la dirección del servidor.
+  
   - Cuenta en GitHub. Si no tienes cuenta de GitHub, puedes usar el código QR que aparece arriba para navegar a esta misma página. Cuando entres, ve arriba y presiona *`Sign up`*. Este proceso suele ser largo, pero se resume básicamente así: te pedirá una dirección de correo electrónico, un nombre de usuario y una contraseña (el nombre de usuario y la contraseña tienen restricciones, así que lee la parte inferior de la caja correspondiente). Cuando cumplas con los requisitos de los campos correo electrónico, nombre de usuario y contraseña, entonces podrás avanzar al siguiente paso. En este, el sistema te pedirá que cumplas algunos desafíos "propios de humanos" (y yo me río). Cuando superes los desafíos, GitHub te enviará un mensaje de correo electrónico con un código de 6 u 8 dígitos que deberás ingresar de vuelta en GitHub. Superado este paso, tu cuenta de GitHub se habrá creado, y te pedirá que ingreses a ella usando nombre de usuario (o correo electrónico) y contraseña. Cuando termines, **no olvides notifícame tu nombre de usuario**, ya sea por correo electrónico o por el foro.
+  
   - Cuenta en Google Earth Engine. Te recomiendo [este vídeo](https://www.youtube.com/watch?v=7zsJurpOXuA) para crear tu cuenta.
 
 - Prácticas de aula
@@ -24,8 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
   
   - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
 
-
-  <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 10 de febrero, 2025, 7:59 pm. -->
+  - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 10 de febrero, 2025, 7:59 pm.
 
   <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
 

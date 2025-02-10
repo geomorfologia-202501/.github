@@ -24,9 +24,11 @@ Autónoma de Santo Domingo (UASD)
     la cual te pedirá tu nombre de usuario y contraseña creada
     previamente, así como un nombre de servidor (escríbeme para
     indicarte qué URL usar como nombre de servidor).
+
   - Cuenta en el servidor de RStudio. Escríbeme un mensaje de correo
     electrónico si no tienes cuenta aún. Recibirás un mensaje de correo
     electrónico con tus credenciales y la dirección del servidor.
+
   - Cuenta en GitHub. Si no tienes cuenta de GitHub, puedes usar el
     código QR que aparece arriba para navegar a esta misma página.
     Cuando entres, ve arriba y presiona *`Sign up`*. Este proceso suele
@@ -44,6 +46,7 @@ Autónoma de Santo Domingo (UASD)
     nombre de usuario (o correo electrónico) y contraseña. Cuando
     termines, **no olvides notifícame tu nombre de usuario**, ya sea por
     correo electrónico o por el foro.
+
   - Cuenta en Google Earth Engine. Te recomiendo [este
     vídeo](https://www.youtube.com/watch?v=7zsJurpOXuA) para crear tu
     cuenta.
@@ -58,7 +61,10 @@ Autónoma de Santo Domingo (UASD)
     Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones).
     Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
 
-  <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 10 de febrero, 2025, 7:59 pm. -->
+  - [PA02. Interpolación lineal ponderada por la distancia
+    inversa](https://github.com/geomorfologia-master/interpolacion-idw).
+    Plazo de entrega: 10 de febrero, 2025, 7:59 pm.
+
   <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
   <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
   <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
