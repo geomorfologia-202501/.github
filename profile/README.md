@@ -63,7 +63,7 @@ Autónoma de Santo Domingo (UASD)
 
   - [PA02. Interpolación lineal ponderada por la distancia
     inversa](https://github.com/geomorfologia-master/interpolacion-idw).
-    Plazo de entrega: 10 de febrero, 2025, 7:59 pm.
+    Plazo de entrega: 17 de febrero, 2025, 3:59 pm.
 
   <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
   <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
@@ -74,9 +74,9 @@ Autónoma de Santo Domingo (UASD)
 - Prácticas de desarrollo
 
   - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo
-    de entrega: 10 de febrero, 2025, 11:59 pm. Al hacer clic en el
+    de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el
     vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la
-    organización `geomorfologia-202502` debería aparecerte un mensaje de
+    organización `geomorfologia-202501` debería aparecerte un mensaje de
     GitHub Classroom solicitando permisos o preguntando si aceptas la
     asignación. Si no ves esto, entonces probablemente no perteneces a
     la organización o no iniciaste en tu cuenta de GitHub. Si no
