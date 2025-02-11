@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
   
   - [PA01. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 10 de febrero, 2025, 3:59 pm.
 
-  - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 10 de febrero, 2025, 7:59 pm.
+  - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm.
 
   <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
 
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Prácticas de desarrollo
 
-  - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 10 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202502` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
+  - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
   <!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/1A_q9IhP). Plazo de entrega: 30 de septiembre, 2024, 11:59 pm. -->
 
