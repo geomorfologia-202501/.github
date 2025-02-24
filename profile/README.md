@@ -88,7 +88,11 @@ Autónoma de Santo Domingo (UASD)
     poder invitarte. Más detalles en el [Vídeo tutorial “PD01. Hola
     Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
-  <!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/1A_q9IhP). Plazo de entrega: 30 de septiembre, 2024, 11:59 pm. -->
+  - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de
+    formato, figuras, tablas, citas y
+    referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de
+    entrega: 9 de marzo, 2025, 11:59 pm.
+
   <!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
 
 - Proyecto de desarrollo
