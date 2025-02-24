@@ -65,7 +65,10 @@ Autónoma de Santo Domingo (UASD)
     inversa](https://github.com/geomorfologia-master/interpolacion-idw).
     Plazo de entrega: 17 de febrero, 2025, 3:59 pm.
 
-  <!-- - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm. -->
+  - [PA03. Agrupar provincias según sus formas
+    predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas).
+    Plazo de entrega: 2 de marzo, 2025, 11:59 pm.
+
   <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
   <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
   <!-- - [PA06. Procesa datos GNSS y obtén soluciones fijas](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 14 de octubre, 2024, 7:59 pm. -->
