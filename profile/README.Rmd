@@ -31,6 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
   - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de marzo, 2025, 11:59 pm.
 
+  - [PA04. Meteorización/intemperización, formas resultantes, geomorfología climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst). Plazo de entrega: 23 de marzo, 2025, 11:59 pm.
+
+
   <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
 
   <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
